@@ -1,4 +1,8 @@
 #DOUBLY LINKED LIST
+#   MUHAMMAD ALFIN FARHANSYAH
+#   50421907
+#   2IA25
+# DOUBLE LIST LINKED [PYTHON]
 #=======================================================================
  
 import os
